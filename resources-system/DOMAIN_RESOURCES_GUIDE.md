@@ -18,3 +18,9 @@ This guide defines how contributors will later add **learning resources** (artic
 - Type: Article / Video / Documentation / Interactive lab
 - Cost: Free / Freemium / Paid
 - Description: (one sentence)
+```
+Placement
+Resources are not stored in /resources-system but referenced in each domain’s README.md under a “Recommended Resources” section (future). This file only defines the schema.
+
+Submission rule
+When contributors add a resource reference, they must use the above metadata format and ensure the resource is defensive and not outdated (no deprecated technologies without disclaimer).
