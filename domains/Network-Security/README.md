@@ -37,7 +37,4 @@ Networks are the backbone of modern organisations. A single vulnerability in net
 - Place content in the appropriate difficulty folder (`/beginner/`, `/intermediate/`, …).
 - Cross‑reference other domains where relevant.
 
-## Ethical boundaries
-- ❌ No packet crafting tools that generate malicious traffic.
-- ❌ No live exploitation of network services.
-- ✅ Only defensive analysis, configuration examples, and theoretical explanations.
+
