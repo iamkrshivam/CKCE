@@ -1,10 +1,5 @@
 
----
 
-## Tools Hub
-
-### `tools-hub/README.md`
-```markdown
 # Tools Hub – Framework
 
 The Tools Hub holds **descriptions** of defensive cybersecurity tools. No actual tool code, binaries, or installation scripts are allowed. Contributors may explain a tool’s purpose, architecture, and typical usage in a defensive context.
