@@ -14,7 +14,7 @@ The ecosystem serves three primary functions:
 - **Career roadmap engine** – Maps domains, skills, and projects to real‑world job roles.
 - **Contribution‑based knowledge graph** – A modular, extensible graph of concepts, resources, and case studies.
 
-All content added by contributors must be **defensive only**, education‑focused, and follow the governance rules defined in this repository.
+All content added by contributors must be education‑focused, and follow the governance rules defined in this repository.
 
 ---
 
